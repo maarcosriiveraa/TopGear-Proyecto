@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TopMotorsApp</string>
+    <string name="BienvenidaApp">TopMotor, te da la bienvenida a la mejor APP del Motor</string>
+    <string name="IniciarSesion">Iniciar Sesión</string>
+    <string name="BienvenidaUsuario"> %s,estas usando la versión 1 de TopMotors</string>
+    <string name="Descripción">Bienvenido a la mejor App del motor, esta App te permitirá aprender muchos aspectos sobre el motor
+    como, marcas de coches, modelos, motorizaciones etc, esta App te permitira subir con total libertad opiniones sobre coches, motos etc
+    para que usuarios como tu puedan informarse y ver las opiniones de esos vehiculos.Se trata de la mejor red Social para amantes del motor</string>
+    <string name="BotonContacto">Contactar</string>
+</resources>
